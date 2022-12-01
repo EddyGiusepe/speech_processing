@@ -130,3 +130,6 @@ dmypy.json
 
 # Eddy
 venv_speech/
+_sample_data/
+data/
+
