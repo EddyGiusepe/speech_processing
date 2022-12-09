@@ -132,4 +132,6 @@ dmypy.json
 venv_speech/
 _sample_data/
 data/
-./pretrained_models/
+pretrained_models/
+tmpdir_tts/
+tmpdir_vocoder/
