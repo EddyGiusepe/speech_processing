@@ -132,4 +132,4 @@ dmypy.json
 venv_speech/
 _sample_data/
 data/
-
+./pretrained_models/
