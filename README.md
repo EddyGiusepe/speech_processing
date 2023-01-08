@@ -5,6 +5,4 @@
 
 
 
-
-
 Thanks God!
